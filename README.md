@@ -12,4 +12,4 @@
   <ol>5. There are 2 roles assigned to the API's and all POST / DELETE requests will work with Admin credentials in Basic Auth ( admin:adminSecret ) and GET API's will assume USER role and their credentials goes as ( user:userSecret )</ol>
 </ul>
 
-<h3>Postman Collection attached in the root as postman.json, please import it and play around</h3>
+<h3>Postman Collection attached in the root as postman_collection.json, please import it and play around</h3>
