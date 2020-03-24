@@ -1,7 +1,7 @@
 <h1><b>Book Land - Server Side</b></h1>
 <p>An Online Book Store</p>
 
-<h3>Created with Spring Rest , Spring Security, JPA, Hibernate and MySQL</h3>
+<h3>Created with Spring Rest, Spring Security, JPA, Hibernate and MySQL</h3>
 
 <h2>How to run project locally</h2>
 <ul>
