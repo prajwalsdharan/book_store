@@ -1,0 +1,5 @@
+book_id,author_id,category_id,isbn,published_date,title
+1,1,1,1,2000-01-01,Ramayana
+3,2,2,1234,2000-01-01,"Sonet 130"
+5,2,2,123456,2000-01-01,"Sonet 116"
+7,2,2,123,2000-01-01,"A Lover's Complaint"
